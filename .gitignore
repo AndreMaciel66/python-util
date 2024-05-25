@@ -1,0 +1,5 @@
+*cred*
+.venv
+*chromedriver.exe
+**.csv
+.idea
